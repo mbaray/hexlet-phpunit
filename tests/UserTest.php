@@ -5,8 +5,6 @@ namespace Php\Package\Tests;
 use PHPUnit\Framework\TestCase;
 use Php\Package\User;
 
-require_once __DIR__ . '/../vendor/autoload.php';
-
 class UserTest extends TestCase
 {
     public function testGetName(): void
