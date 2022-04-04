@@ -1,6 +1,6 @@
 # php-package
 
-[![Github Actions Status](https://github.com/mbaray/hexlet-phpunit/actions/workflows/PHP%20CI/badge.svg)](https://github.com/mbaray/hexlet-phpunit/actions)
+[![Github Actions Status](https://github.com/mbaray/hexlet-phpunit/workflows/PHP%20CI/badge.svg)](https://github.com/mbaray/hexlet-phpunit/actions)
 
 ## Addons
 
